@@ -1,0 +1,21 @@
+directories:
+  output: dist
+  buildResources: build
+appId: io.liskish.wallet
+productName: Liskish Wallet
+protocols:
+  name: liskish-wallet
+  schemes:
+    - lisk
+artifactName: 'liskish-wallet-${os}-${arch}-${version}.${ext}'
+publish:
+  - github
+linux:
+  target:
+    - AppImage
+  desktop:
+    MimeType: application/lisk;x-scheme-handler/lisk
+  category: Network
+win:
+  target: nsis
+electronVersion: 1.8.8

@@ -1,0 +1,9 @@
+version: 2.2.1-beta
+files:
+  - url: liskish-wallet-linux-x86_64-2.2.1-beta.AppImage
+    sha512: yJOQ2Q/ICMBFEVxcyN0e3nyrVFdT/tUeOdPsXM12R0I8pYUkmkWqRdEkDVbSejaswGP8kWtMmzzeBaM7U/8xRQ==
+    size: 54864846
+    blockMapSize: 58642
+path: liskish-wallet-linux-x86_64-2.2.1-beta.AppImage
+sha512: yJOQ2Q/ICMBFEVxcyN0e3nyrVFdT/tUeOdPsXM12R0I8pYUkmkWqRdEkDVbSejaswGP8kWtMmzzeBaM7U/8xRQ==
+releaseDate: '2021-05-23T20:47:15.196Z'
